@@ -1,6 +1,6 @@
 # HackIA24 - Edge AI System for Smart Cities 
 <br>18-19 mai 2024
-![HackIA24](https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/b42a54a4-1f99-4fb1-ace2-ce26acee932c)
+<br>![HackIA24](https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/b42a54a4-1f99-4fb1-ace2-ce26acee932c)
 
 ## HackAI_2024_GRP_2
 
