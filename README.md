@@ -7,10 +7,10 @@
 
 **photo de groupe ici**
 
-<br> *ResponFrancesco Romeo :older_adult:
-<br>Loïc Reboursière :bearded_person:
-<br>Rabie Najem :bearded_person:
-<br>Bérengère Fally :curly_haired_woman:
+<br> *Data Expert* : Francesco Romeo :older_adult:
+<br> *Operations Manager* : Loïc Reboursière :bearded_person:
+<br> *Lead Developer* : Rabie Najem :bearded_person:
+<br> *Designer* : Bérengère Fally :curly_haired_woman:
 
 ## Introduction
 
@@ -27,24 +27,50 @@ Ce document détaille les étapes du projet, allant de la conception initiale et
 ## Phases du Projet
 
 ### Phase 1 : Développement et entraînement des modèles
+
 #### Objectifs
 - Développer et entraîner des modèles de Deep Learning.
 - Utiliser des ressources locales ou cloud (xxxxxx).
+
+#### Base de données 
+<br> Images BD1, BD2 + photos web (kaggle) => 1716 images
+
+<br> fire : 572
+![Capture d'écran 2024-05-18 130157](https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/8719ccff-25b9-4c4e-9011-ef67bf6fd899)
+
+<br> no-fire : 572
+![Capture d'écran 2024-05-18 122417](https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/c073b396-36a8-4960-a2f8-75bdd3bfa920)
+
+<br> start-fire : 572
+![Capture d'écran 2024-05-18 130120](https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/eba66914-97fd-4176-b102-ba76c7fe4fac)
+
+<br> Dataset final : https://drive.google.com/drive/folders/10FvmIW5iMZp31oEN0X9UfeA_-M2dyt7w?usp=sharing 
+ 
+
+
+
+
+
 
 #### Modèles développés
 - **Modèle 1 : Classification de Feu**
   - **Architecture :** Description de l'architecture.
   - **Données utilisées :** Source et description des données.
   - **Résultats d'entraînement :** Précision, courbes de perte, etc.
+
 - **Modèle 2 : Détection de feu et/ou objets (voitures, personnes, etc.)**
   - **Architecture :** Description de l'architecture.
   - **Données utilisées :** Source et description des données.
   - **Résultats d'entraînement :** Précision, courbes de perte, etc.
 
-#### Environnements et outils utilisés
+#### Environnements, ressources et outils utilisés
 - **Environnements :** Google Colab, Google Colab Pro.
-- **Frameworks :** TensorFlow, PyTorch.
-- **Outils de gestion de versions :** Git.
+- **Frameworks :** TensorFlow, PyTorch, Keras.
+- **Outils de collaboration :** 
+<br> Drive : https://drive.google.com/drive/folders/1pZg4WNNQ67gFMcpX1OwIWz55K1kt07ip?usp=sharing 
+<br> Git : https://github.com/loicreboursiere/HackAI_2024_GRP_2 
+<br> Slack : https://hackia-2024.slack.com/
+<br> Telegram : https://t.me/HackIA24_bot
 
 ### Phase 2 : Portage sur ressource Edge
 #### Configuration de l'environnement Edge
@@ -78,6 +104,8 @@ Ce document détaille les étapes du projet, allant de la conception initiale et
 ## Conclusion
 ### Synthèse du projet
 Synthèse des travaux réalisés, des défis relevés et des résultats obtenus.
+
+
 
 
 ### Références
