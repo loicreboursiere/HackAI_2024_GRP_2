@@ -5,12 +5,12 @@
 
 # HackAI_2024_GRP_2
 
-photo de groupe ici
+**photo de groupe ici**
 
-Francesco Romeo
-Loïc Reboursière
-Rabie Najem
-:woman:Bérengère Fally
+<br>Francesco Romeo
+<br>Loïc Reboursière
+<br>Rabie Najem
+<br>':woman:'Bérengère Fally
 
 
 ## Introduction
