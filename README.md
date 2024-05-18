@@ -8,9 +8,9 @@
 **photo de groupe ici**
 
 <br>Francesco Romeo
-<br>Loïc Reboursière
-<br>Rabie Najem
-<br>':woman:' Bérengère Fally
+<br>Loïc Reboursière :bearded_person:
+<br>Rabie Najem 
+<br>Bérengère Fally 👱‍♀️
 
 
 ## Introduction
