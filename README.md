@@ -46,11 +46,11 @@ Ce document détaille les étapes du projet, allant de la conception initiale et
 
 <br> Dataset final : https://drive.google.com/drive/folders/10FvmIW5iMZp31oEN0X9UfeA_-M2dyt7w?usp=sharing 
  
-
-
-
-
-
+#### Face recognition
+Modèle “Face”
+<br> Authentification faciale grâce à la reconnaissance de visages.
+<br> ![PXL_20240518_090826945](https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/2e0b0343-ecae-4549-8ffc-492fad3aaa75)
+<br> ![PXL_20240518_094820701](https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/3b82591c-1b66-47d5-9f45-8b10a8453708)
 
 #### Modèles développés
 - **Modèle 1 : Classification de Feu**
