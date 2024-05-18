@@ -10,7 +10,7 @@
 <br>Francesco Romeo
 <br>Loïc Reboursière
 <br>Rabie Najem
-<br>':woman:'Bérengère Fally
+<br>':woman:' Bérengère Fally
 
 
 ## Introduction
