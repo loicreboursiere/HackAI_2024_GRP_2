@@ -7,10 +7,10 @@
 
 **photo de groupe ici**
 
-<br>Francesco Romeo
+<br>Francesco Romeo :older_adult:
 <br>Loïc Reboursière :bearded_person:
-<br>Rabie Najem 
-<br>Bérengère Fally 👱‍♀️
+<br>Rabie Najem :black_bearded_person:
+<br>Bérengère Fally :curly_haired_woman:
 
 
 ## Introduction
