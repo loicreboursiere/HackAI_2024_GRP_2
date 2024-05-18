@@ -1,7 +1,7 @@
 # HackIA24 - Edge AI System for Smart Cities 
 <br>18-19 mai 2024
 <br>
-<br><img src=![HackIA24](https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/b42a54a4-1f99-4fb1-ace2-ce26acee932c)width="300">
+<br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/b42a54a4-1f99-4fb1-ace2-ce26acee932c width="300">
 
 ## Groupe 2 (HackAI_2024_GRP_2)
 
@@ -36,21 +36,21 @@ Ce document détaille les étapes du projet, allant de la conception initiale et
 <br> Images BD1, BD2 + photos web (kaggle) => 1716 images
 
 <br> fire : 572
-![Capture d'écran 2024-05-18 130157](https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/8719ccff-25b9-4c4e-9011-ef67bf6fd899)
+<br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/8719ccff-25b9-4c4e-9011-ef67bf6fd899 width="300">
 
 <br> no-fire : 572
-![Capture d'écran 2024-05-18 122417](https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/c073b396-36a8-4960-a2f8-75bdd3bfa920)
+<br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/c073b396-36a8-4960-a2f8-75bdd3bfa920 width="300">
 
 <br> start-fire : 572
-![Capture d'écran 2024-05-18 130120](https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/eba66914-97fd-4176-b102-ba76c7fe4fac)
+<br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/eba66914-97fd-4176-b102-ba76c7fe4fac width="300">
 
 <br> Dataset final : https://drive.google.com/drive/folders/10FvmIW5iMZp31oEN0X9UfeA_-M2dyt7w?usp=sharing 
  
 #### Face recognition
 Modèle “Face”
 <br> Authentification faciale grâce à la reconnaissance de visages.
-<br> ![PXL_20240518_090826945](https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/2e0b0343-ecae-4549-8ffc-492fad3aaa75)
-<br> ![PXL_20240518_094820701](https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/3b82591c-1b66-47d5-9f45-8b10a8453708)
+<br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/2e0b0343-ecae-4549-8ffc-492fad3aaa75 width="300">
+<br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/3b82591c-1b66-47d5-9f45-8b10a8453708 width="300">
 
 #### Modèles développés
 - **Modèle 1 : Classification de Feu**
