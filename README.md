@@ -49,7 +49,7 @@ Ce document détaille les étapes du projet, allant de la conception initiale et
 #### Face recognition
 Modèle “Face”
 <br> Authentification faciale grâce à la reconnaissance de visages.
-<br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/2e0b0343-ecae-4549-8ffc-492fad3aaa75 width="300">
+<br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/d050359c-e63e-43a7-aee8-86329bdcf6bf width="300">
 <br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/3b82591c-1b66-47d5-9f45-8b10a8453708 width="300">
 
 #### Modèles développés
@@ -62,15 +62,6 @@ Modèle “Face”
   - **Architecture :** Description de l'architecture.
   - **Données utilisées :** Source et description des données.
   - **Résultats d'entraînement :** Précision, courbes de perte, etc.
-
-#### Environnements, ressources et outils utilisés
-- **Environnements :** Google Colab, Google Colab Pro.
-- **Frameworks :** TensorFlow, PyTorch, Keras.
-- **Outils de collaboration :** 
-<br> Drive : https://drive.google.com/drive/folders/1pZg4WNNQ67gFMcpX1OwIWz55K1kt07ip?usp=sharing 
-<br> Git : https://github.com/loicreboursiere/HackAI_2024_GRP_2 
-<br> Slack : https://hackia-2024.slack.com/
-<br> Telegram : https://t.me/HackIA24_bot
 
 ### Phase 2 : Portage sur ressource Edge
 #### Configuration de l'environnement Edge
@@ -105,11 +96,21 @@ Modèle “Face”
 ### Synthèse du projet
 Synthèse des travaux réalisés, des défis relevés et des résultats obtenus.
 
+## Environnements, outils utilisés, méthodologie et références utiles
+- **Environnements :** Google Colab, Google Colab Pro.
+  
+- **Frameworks :** TensorFlow, PyTorch, Keras.
+  
+- **Outils de collaboration :** 
+<br> Drive : https://drive.google.com/drive/folders/1pZg4WNNQ67gFMcpX1OwIWz55K1kt07ip?usp=sharing 
+<br> Git : https://github.com/loicreboursiere/HackAI_2024_GRP_2 
+<br> Slack : https://hackia-2024.slack.com/
+<br> Telegram : https://t.me/HackIA24_bot
+
+- **Méthodologie :**
+ <br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/68603fee-0ffe-43bf-abcb-dacb90adc44b width="300">
 
 
-
-### Références
-Listez toutes les références/ressources utilisées.
 - **Références :** Liste des références
 
 
