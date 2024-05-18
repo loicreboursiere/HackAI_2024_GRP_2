@@ -31,7 +31,7 @@ Tous ces points sont alors intégrés dans une application finale permettant, ap
 
 #### Objectifs
 - Développer et entraîner des modèles de Deep Learning.
-- Utiliser des ressources locales ou cloud (xxxxxx).
+- Utiliser des ressources locales/cloud.
 
 #### Base de données 
 <br> Images BD1, BD2 + photos web (kaggle) => 1716 images
