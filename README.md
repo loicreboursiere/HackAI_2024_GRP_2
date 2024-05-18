@@ -23,6 +23,7 @@ Ce document détaille les étapes du projet, allant de la conception initiale et
 - Développer des réseaux de neurones pour classifier des images, localiser des objets et reconnaître des visages.
 - Intégrer les modèles dans un système Edge AI pour des vidéos capturées en temps réel.
 - Optimiser la solution pour obtenir un bon compromis entre précision, temps de calcul et espace mémoire.
+Tous ces points sont alors intégrés dans une application finale permettant, après déverouillage par reconnaissance faciale, la détection et le tracking du feu. 
 
 ## Phases du Projet
 
