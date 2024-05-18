@@ -64,6 +64,7 @@ Modèle “Face”
   - **Résultats d'entraînement :** Précision, courbes de perte, etc.
 
 ### Phase 2 : Portage sur ressource Edge
+Adaptation du modèles développé pour qu'il puisse fonctionner sur Edge, permettant ainsi un traitement en temps réel et une consommation d'énergie optimisée.
 #### Configuration de l'environnement Edge
 - **Ressources utilisées :** Jetson Xavier.
 - **Installation des dépendances :** Liste des dépendances et instructions d'installation.
