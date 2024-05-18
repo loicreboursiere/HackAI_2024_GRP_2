@@ -9,7 +9,7 @@
 
 <br>Francesco Romeo :older_adult:
 <br>Loïc Reboursière :bearded_person:
-<br>Rabie Najem :black_bearded_person:
+<br>Rabie Najem :bearded_person:
 <br>Bérengère Fally :curly_haired_woman:
 
 
