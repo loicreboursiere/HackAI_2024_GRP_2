@@ -3,11 +3,11 @@
 <br>
 <br>![HackIA24](https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/b42a54a4-1f99-4fb1-ace2-ce26acee932c)
 
-## HackAI_2024_GRP_2
+## Groupe 2 (HackAI_2024_GRP_2)
 
 **photo de groupe ici**
 
-<br>Francesco Romeo :older_adult:
+<br> *ResponFrancesco Romeo :older_adult:
 <br>Loïc Reboursière :bearded_person:
 <br>Rabie Najem :bearded_person:
 <br>Bérengère Fally :curly_haired_woman:
