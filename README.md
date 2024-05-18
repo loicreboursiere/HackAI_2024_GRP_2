@@ -81,8 +81,8 @@ Diminuer la taille du modèle et accélérer les calculs sans sacrifier la préc
 - **Knowledge distillation :** Description des techniques de distillation des connaissances appliquées.
 Transférer les connaissances d'un grand modèle complexe vers un modèle plus petit et plus simple. Permet de maintenir une haute précision tout en réduisant les besoins en calcul et en mémoire. Cela facilite le déploiement de solutions intelligentes sur le dispositif Edge AI, contribuant ainsi à l'optimisation et à l'efficacité des systèmes intelligents dans divers contextes.
 
-  + tableaux comparaison
-    métriques des meilleures versions de modèles compressés
+<br> !!! tableaux comparaison
+métriques des meilleures versions de modèles compressés
 
 #### Explicabilité des modèles
 - **Framework utilisé :** PyTorch.
