@@ -72,11 +72,17 @@ Modèle “Face”
 - **Procédure de déploiement :** Étapes suivies pour déployer les modèles.
 - **Challenges rencontrés :** Description des problèmes et solutions trouvées.
 
-### Phase 3 : Optimisation et explicabilité des modèles
+### Phase 3 : Optimisation/compression et explicabilité des modèles
 #### Optimisation des modèles
 - **Pruning :** Description des techniques de pruning appliquées.
+Réduire le poids pour rendre le modèle plus efficaces en termes de temps de calcul et d'utilisation de la mémoire, sans compromettre significativement leur précision. C'est déployer ces modèles sur des ressources limitées telles que les dispositifs Edge AI.
 - **Quantization :** Description des techniques de quantization appliquées.
+Diminuer la taille du modèle et accélérer les calculs sans sacrifier la précision du modèle. Cela permet d'améliorer les performances du modèle sur des appareils avec des capacités de calcul et de mémoire limitées, comme les Jetson Xavier, tout en maintenant une efficacité énergétique élevée.
 - **Knowledge distillation :** Description des techniques de distillation des connaissances appliquées.
+Transférer les connaissances d'un grand modèle complexe vers un modèle plus petit et plus simple. Permet de maintenir une haute précision tout en réduisant les besoins en calcul et en mémoire. Cela facilite le déploiement de solutions intelligentes sur le dispositif Edge AI, contribuant ainsi à l'optimisation et à l'efficacité des systèmes intelligents dans divers contextes.
+
+  + tableaux comparaison
+    métriques des meilleures versions de modèles compressés
 
 #### Explicabilité des modèles
 - **Framework utilisé :** PyTorch.
