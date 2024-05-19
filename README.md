@@ -78,10 +78,13 @@ Adaptation du modèles développé pour qu'il puisse fonctionner sur Edge, perme
 #### Optimisation des modèles
 - **Pruning :** Description des techniques de pruning appliquées.
 Objectif : Réduire le poids pour rendre le modèle plus efficaces en termes de temps de calcul et d'utilisation de la mémoire, sans compromettre significativement leur précision. C'est déployer ces modèles sur des ressources limitées telles que les dispositifs Edge AI.
-Résultat : Notre modème étant petit, le pruning n'a pas vraiment d'effet intéressant.
+Résultat : Notre modème étant petit, le pruning sur MobileNet n'a pas vraiment d'effet intéressant, même si compressé par 5 (190.000 paramètres). Nous n'avons que 30% d’accuracy.
 <br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/c2f4d788-afd3-411a-9d52-ed0ea78a352a width="200">
 <br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/12771901-c508-4d91-955a-6c8c5d36b2a4 width="200">
 <br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/7d83f316-a00c-40c4-b33b-f013a39f5872 width="200">
+Tentative de quantization : xxxxx
+Sur ResNet, pruning intéressant et résultats au minimum identiques : xxxx
+Pruning Yolo : pas d'intérêt de descendre en dessous de 16 bit car nous travaillons sur des petits modèles et il y a peu d'intérêt à descendre en qualité pour peu de gain.
 
 - **Quantization :** Description des techniques de quantization appliquées.
 Diminuer la taille du modèle et accélérer les calculs sans sacrifier la précision du modèle. Cela permet d'améliorer les performances du modèle sur des appareils avec des capacités de calcul et de mémoire limitées, comme les Jetson Xavier, tout en maintenant une efficacité énergétique élevée.
