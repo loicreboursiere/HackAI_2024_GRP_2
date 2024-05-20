@@ -5,7 +5,7 @@
 
 ## Groupe 2 (HackAI_2024_GRP_2)
 
-**photo de groupe ici**
+<br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/a33d2f07-1afc-48a5-94ee-da540546a09e="300">
 
 <br> *Data Expert* : Francesco Romeo :older_adult:
 <br> *Operations Manager* : Loïc Reboursière :bearded_person:
@@ -28,6 +28,7 @@ Tous ces points sont alors intégrés dans une application finale permettant, ap
 ## Phases du Projet
 
 ### Phase 1 : Développement et entraînement des modèles
+Entraînement, validation et test d'un modèle de classification d'images en utilisant PyTorch et Google Colab.
 
 #### Objectifs
 - Développer et entraîner des modèles de Deep Learning.
