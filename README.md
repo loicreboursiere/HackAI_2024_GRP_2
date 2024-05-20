@@ -5,7 +5,7 @@
 
 ## Groupe 2 (HackAI_2024_GRP_2)
 
-<br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/a33d2f07-1afc-48a5-94ee-da540546a09e="300">
+<br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/a33d2f07-1afc-48a5-94ee-da540546a09e width="300">
 
 <br> *Data Expert* : Francesco Romeo :older_adult:
 <br> *Operations Manager* : Loïc Reboursière :bearded_person:
