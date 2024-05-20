@@ -128,8 +128,7 @@ https://www.canva.com/design/DAGFneZKn2o/FtJgHbfXzrO6-3KTsr24dQ/edit?utm_content
 <br> Telegram : https://t.me/HackIA24_bot
 
 - **Méthodologie :**
- <br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/68603fee-0ffe-43bf-abcb-dacb90adc44b width="300">
-
+ <br><img src=https://github.com/loicreboursiere/HackAI_2024_GRP_2/assets/170175731/67c72c88-7262-4896-8b1a-64f35a6bb47d width="300">
 
 - **Références :** Liste des références
 
